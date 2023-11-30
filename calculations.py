@@ -14,8 +14,8 @@ quotient = num1 / num2
 # Find the Modulus and store in remainder
 remainder = num1 % num2
 # Print the output
-print("{} add {} is {}".format, num1, num2, add)
-print("{} subtract {} is {}".format, num1, num2, diff)
-print("{} multiply {} is {}".format, num1, num2, product)
-print("{} divide {} is {}".format, num1, num2, quotient)
-print("{} modulus {} is {}".format, num1, num2, quotient)
+print("{} add {} is {}".format(num1, num2, add))
+print("{} subtract {} is {}".format(num1, num2, diff))
+print("{} multiply {} is {}".format(num1, num2, product))
+print("{} divide {} is {}".format( num1, num2, quotient))
+print("{} modulus {} is {}".format(num1, num2, quotient))
