@@ -4,7 +4,7 @@
 # Enter Miles 5( to be inputted)
 # 5 miles equals 8.04 kilometers(output)
 miles = input("Enter miles: ")
-# convert miles to float
+# convert miles from string to float
 miles = float(miles)
 # convert miles to float
 kilometers = miles * (1.60934)
