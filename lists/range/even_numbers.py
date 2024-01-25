@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-numbers = list(range(1, 8))
-print(numbers)
+even_numbers = list(range(3, 21, 3))
+print(even_numbers)
