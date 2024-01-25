@@ -2,5 +2,6 @@
 animals = ['cheetah', 'tiger', 'leoplard', 'panther', 'lion', 'jaguar']
 for animal in animals:
     print("A " + animal.title() + " would make a great pet.")
-    print(animal.title() + " is a member of the cat family.")
+    print(animal.title() + " is a member of the cat family.\n")
+print("All these animals are amazing.")
 
