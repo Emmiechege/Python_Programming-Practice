@@ -4,5 +4,5 @@ print("The fist three students in the list are:")
 for student in students[:3]:
     print(student.title())
 print("Three items from the middle of the list are")
-for student in students[:0]:
+for student in students[-3:]:
     print(student.title())
