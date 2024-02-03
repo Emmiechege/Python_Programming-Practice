@@ -5,4 +5,4 @@ if alien_color == 'red':
 elif alien_color == 'pink':
     print("It is a pink alien")
 else:
-    print("THis is the correct alien color")
+    print("This is the correct alien color")
